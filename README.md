@@ -1,2 +1,0 @@
-# AssessmentDemo
-Testing demo desing
